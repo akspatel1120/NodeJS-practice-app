@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-practice-app",
+  "version": "1.0.0",
+  "description": "App used to practice best practices for API development in Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshay Patel",
+  "license": "ISC"
+}
